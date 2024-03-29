@@ -1,0 +1,32 @@
+{
+  "name": "alpha-coral-builder",
+  "version": "1.0.0",
+  "description": "Builds coral in the alpha sea, offering marine ecosystem creation and coral reef simulation in virtual aquatic environments.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/alpha-coral-builder"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "beta-echo-locator": "1.0.0",
+    "phantom-signal-processor": "1.0.0",
+    "supertest": "1.0.0",
+    "react": "1.0.0",
+    "solc": "1.0.0",
+    "body-parser": "1.0.0",
+    "commander": "1.0.0",
+    "firebase": "1.0.0",
+    "mongoose": "1.0.0",
+    "axios": "1.0.0",
+    "react-redux": "1.0.0",
+    "dotenv": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
